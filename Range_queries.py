@@ -1,5 +1,3 @@
-#TRIANTAFYLLENIA DOUMANI
-# for example, you can run the program with: python3 Range_queries.py Rtree.txt Rqueries.txt
 
 import sys
 
