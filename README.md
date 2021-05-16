@@ -8,4 +8,4 @@ query results using the R-tree.
 
 The Rqueries.txt file contains examples of 'queries'.
 
-python3 Range_queries.py Rtree.txt Rqueries.txt
+command line: python3 Range_queries.py Rtree.txt Rqueries.txt
